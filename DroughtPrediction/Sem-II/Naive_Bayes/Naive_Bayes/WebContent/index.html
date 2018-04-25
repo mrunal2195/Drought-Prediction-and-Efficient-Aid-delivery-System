@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!--Import Google Icon Font-->
+<link href="http://fonts.googleapis.com/icon?family=Material+Icons"
+	rel="stylesheet">
+<!--Import materialize.css-->
+<link type="text/css" rel="stylesheet" href="css/materialize.min.css"
+	media="screen,projection" />
+
+<!--Let browser know website is optimized for mobile-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+
+<body>
+	<!--Import jQuery before materialize.js-->
+	<script type="text/javascript"
+		src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+	<script type="text/javascript" src="js/materialize.min.js"></script>
+
+
+	<nav>
+		<div class="nav-wrapper">
+			<a href="#!" class="brand-logo">Cloudsters</a> <a href="#"
+				data-activates="mobile-demo" class="button-collapse"><i
+				class="material-icons">menu</i></a>
+			<ul class="right hide-on-med-and-down">
+				<li><a href="sass.html">Sass</a></li>
+				<li><a href="badges.html">Components</a></li>
+				<li><a href="collapsible.html">Javascript</a></li>
+				<li><a href="mobile.html">Mobile</a></li>
+			</ul>
+			<ul class="side-nav" id="mobile-demo">
+				<li><a href="sass.html">Sass</a></li>
+				<li><a href="badges.html">Components</a></li>
+				<li><a href="collapsible.html">Javascript</a></li>
+				<li><a href="mobile.html">Mobile</a></li>
+			</ul>
+		</div>
+	</nav>
+
+
+	<h2 class="header">Parameters Input</h2>
+
+
+
+	<div class="row">
+		<form class="col s12" action="Accept_Route" method="post">
+
+
+			<div class="row">
+				<div class="input-field col s12">
+					<input placeholder="xyz" name="txt_name" id="txt_name" type="text"
+						class="validate"> <label for="txt_name">Taluka
+						name</label>
+				</div>
+			</div>
+
+
+
+
+			<div class="row">
+				<label>Select water depth</label> <select class="browser-default"
+					name="txt_waterlevel">
+					<option value="" disabled selected>Choose your option</option>
+					<option value="2">2</option>
+					<option value="2 to 5">2 to 5</option>
+					<option value="5 to 10">5 to 10</option>
+				</select>
+			</div>
+
+
+
+			<div class="row">
+				<label>Select rainfall</label> <select class="browser-default"
+					name="txt_rainfall">
+					<option value="" disabled selected>Choose your option</option>
+					<option value="300-400">300-400</option>
+					<option value="400-500">400-500</option>
+					<option value="500-600">500-600</option>
+					<option value="600-700">600-700</option>
+					<option value="700-800">700-800</option>
+					<option value="800-900">800-900</option>
+					<option value="1000-1100">1000-1100</option>
+					<option value="1000-1200">1000-1200</option>
+					<option value="1200-1300">1200-1300</option>
+					<option value="1500-1800">1500-1800</option>
+					<option value="1800-2000">1800-2000</option>
+					<option value="1900-2000">1900-2000</option>
+					<option value="1800-2000">1800-2000</option>
+					<option value="2000-2100">2000-2100</option>
+					<option value="2100-2200">2100-2200</option>
+				</select>
+
+			</div>
+			<div class="row">
+				<label>Select population</label> <select class="browser-default"
+					name="txt_population">
+					<option value="" disabled selected>Choose your option</option>
+					<option value="0-50000">0-50000</option>
+					<option value="50000-100000">50000-100000</option>
+					<option value="100000-200000">100000-200000</option>
+					<option value="200000-300000">200000-300000</option>
+					<option value="300000-400000">300000-400000</option>
+					<option value="400000-500000">400000-500000</option>
+					<option value="500000-600000">500000-600000</option>
+					<option value="600000-700000">600000-700000</option>
+				</select>
+			</div>
+
+
+
+
+			<div class="row">
+				<button class="btn waves-effect waves-light" type="submit"
+					name="action">
+					Submit <i class="material-icons right">send</i>
+				</button>
+			</div>
+		</form>
+
+
+	</div>
+
+
+
+
+
+	<footer class="page-footer">
+		<div class="container">
+			<div class="row">
+				<div class="col l6 s12">
+					<h5 class="white-text">Footer Content</h5>
+					<p class="grey-text text-lighten-4">You can use rows and
+						columns here to organize your footer content.</p>
+				</div>
+				<div class="col l4 offset-l2 s12">
+					<h5 class="white-text">Links</h5>
+					<ul>
+						<li><a class="grey-text text-lighten-3" href="#!">Link 1</a></li>
+						<li><a class="grey-text text-lighten-3" href="#!">Link 2</a></li>
+						<li><a class="grey-text text-lighten-3" href="#!">Link 3</a></li>
+						<li><a class="grey-text text-lighten-3" href="#!">Link 4</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="footer-copyright">
+			<div class="container">
+				© 2014 Copyright Text <a class="grey-text text-lighten-4 right"
+					href="#!">More Links</a>
+			</div>
+		</div>
+	</footer>
+
+
+
+
+</body>
+<script src="https://www.gstatic.com/firebasejs/3.6.10/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/3.6.10/firebase-auth.js"></script>
+<script
+	src="https://www.gstatic.com/firebasejs/3.6.10/firebase-database.js"></script>
+<script
+	src="https://www.gstatic.com/firebasejs/3.6.10/firebase-messaging.js"></script>
+
+<!-- Leave out Storage -->
+<!-- <script src="https://www.gstatic.com/firebasejs/3.6.10/firebase-storage.js"></script> -->
+
+<script src="https://www.gstatic.com/firebasejs/3.6.10/firebase.js"></script>
+
+<script>
+	var firebase = require("firebase/app");
+	require("firebase/auth");
+	require("firebase/database");
+
+	// Leave out Storage
+	//require("firebase/storage");
+	// Initialize Firebase
+
+	var config = {
+		apiKey : "AIzaSyCG87cPYojjkkmvvd1r_gAefrmqTdLWPss",
+		authDomain : "droughtprediction.firebaseapp.com",
+		databaseURL : "https://droughtprediction.firebaseio.com",
+		storageBucket : "droughtprediction.appspot.com",
+		messagingSenderId : "56595515677"
+	};
+	firebase.initializeApp(config);
+
+	$(document).ready(function() {
+		$('select').material_select();
+
+		$(".button-collapse").sideNav();
+	});
+</script>
+</html>
+

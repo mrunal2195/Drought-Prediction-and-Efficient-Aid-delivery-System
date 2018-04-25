@@ -1,0 +1,812 @@
+<?xml version="1.0"?>
+<Drought>
+
+	<row id="1">
+		<name>khatav</name>
+		<Avg_Monsoon_Rainfall>300-400</Avg_Monsoon_Rainfall>
+		<population>200000-300000</population>
+		<post_monsoon_depth_to_water_level>5 to 10
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+	</row>
+
+	<row id="2">
+		<name>Phaltan</name>
+		<Avg_Monsoon_Rainfall>500-600</Avg_Monsoon_Rainfall>
+		<population>50000-100000</population>
+		<post_monsoon_depth_to_water_level>5 to 10
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+	</row>
+
+	<row id="3">
+		<name>Maan</name>
+		<Avg_Monsoon_Rainfall>500-600</Avg_Monsoon_Rainfall>
+		<population>100000-200000</population>
+		<post_monsoon_depth_to_water_level>5 to 10
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+	</row>
+
+	<row id="4">
+		<name>Koregaon</name>
+		<Avg_Monsoon_Rainfall>700-800</Avg_Monsoon_Rainfall>
+		<population>0-50000</population>
+		<post_monsoon_depth_to_water_level> 5 to 10
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+
+	</row>
+
+	<row id="5">
+		<name>karad</name>
+		<Avg_Monsoon_Rainfall>700-800</Avg_Monsoon_Rainfall>
+		<population>50000-100000</population>
+		<post_monsoon_depth_to_water_level> 5 to 10
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+
+	</row>
+
+	<row id="6">
+		<name>khandala</name>
+		<Avg_Monsoon_Rainfall>400-500</Avg_Monsoon_Rainfall>
+		<population>500000</population>
+		<post_monsoon_depth_to_water_level>5 to 10
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+
+	</row>
+
+	<row id="7">
+		<name>Satara</name>
+		<Avg_Monsoon_Rainfall>1000-1200</Avg_Monsoon_Rainfall>
+		<population>100000-200000</population>
+		<post_monsoon_depth_to_water_level>2 to 5
+		</post_monsoon_depth_to_water_level>
+		<class>Not Affected</class>
+
+	</row>
+
+	<row id="8">
+		<name>Mahabaleshwar</name>
+		<Avg_Monsoon_Rainfall>2100-2300</Avg_Monsoon_Rainfall>
+		<population>0-50000</population>
+		<post_monsoon_depth_to_water_level>2
+		</post_monsoon_depth_to_water_level>
+		<class>Not Affected</class>
+
+	</row>
+
+	<row id="9">
+		<name>Wai</name>
+		<Avg_Monsoon_Rainfall>800-900</Avg_Monsoon_Rainfall>
+		<population>0-50000</population>
+		<post_monsoon_depth_to_water_level>2 to 5
+		</post_monsoon_depth_to_water_level>
+		<class> Not Affected</class>
+
+	</row>
+
+	<row id="10">
+		<name>Jaoli</name>
+		<Avg_Monsoon_Rainfall>1500-1800</Avg_Monsoon_Rainfall>
+		<population>0-50000</population>
+		<post_monsoon_depth_to_water_level>2
+		</post_monsoon_depth_to_water_level>
+		<class>Not Affected</class>
+
+	</row>
+
+	<row id="11">
+		<name>Patan</name>
+		<Avg_Monsoon_Rainfall>1800-2000</Avg_Monsoon_Rainfall>
+		<population>300000-400000</population>
+		<post_monsoon_depth_to_water_level>2
+		</post_monsoon_depth_to_water_level>
+		<class>Not Affected</class>
+
+	</row>
+
+	<row id="12">
+		<name>Daund</name>
+		<Avg_Monsoon_Rainfall>400-500</Avg_Monsoon_Rainfall>
+		<population>200000-300000</population>
+		<post_monsoon_depth_to_water_level>2 to 5
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+
+	</row>
+
+	<row id="13">
+		<name>Purandhar</name>
+		<Avg_Monsoon_Rainfall>500-600</Avg_Monsoon_Rainfall>
+		<population>50000-100000</population>
+		<post_monsoon_depth_to_water_level>5 to 10
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+
+	</row>
+
+	<row id="14">
+		<name>Shirur</name>
+		<Avg_Monsoon_Rainfall>400-500</Avg_Monsoon_Rainfall>
+		<population>300000-400000</population>
+		<post_monsoon_depth_to_water_level>2 to 5
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+
+	</row>
+                      
+	<row id="15">
+		<name>mulshi</name>
+		<Avg_Monsoon_Rainfall>1900-2000</Avg_Monsoon_Rainfall>
+		<population>50000-100000</population>
+		<post_monsoon_depth_to_water_level>2
+		</post_monsoon_depth_to_water_level>
+		<class>Not_affected</class>
+
+	</row>
+
+	<row id="16">
+		<name>Mawal</name>
+		<Avg_Monsoon_Rainfall>1200-1300</Avg_Monsoon_Rainfall>
+		<population>500000-600000</population>
+		<post_monsoon_depth_to_water_level>2
+		</post_monsoon_depth_to_water_level>
+		<class>Not_affected</class>
+
+	</row>
+
+	<row id="17">
+		<name>Pune_City</name>
+		<Avg_Monsoon_Rainfall>800-900</Avg_Monsoon_Rainfall>
+		<population>1500000-2000000</population>
+		<post_monsoon_depth_to_water_level>2
+		</post_monsoon_depth_to_water_level>
+		<class>Not affected</class>
+
+	</row>
+
+	<row id="18">
+		<name>Baramati</name>
+		<Avg_Monsoon_Rainfall>400-500</Avg_Monsoon_Rainfall>
+		<population>100000-200000</population>
+		<post_monsoon_depth_to_water_level>2 to 5
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+
+	</row>
+
+	<row id="19">
+		<name>Indapur</name>
+		<Avg_Monsoon_Rainfall>400-500</Avg_Monsoon_Rainfall>
+		<population>0-50000</population>
+		<post_monsoon_depth_to_water_level>5 to 10
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+
+	</row>
+
+	<row id="20">
+		<name>Haveli</name>
+		<Avg_Monsoon_Rainfall>800-900</Avg_Monsoon_Rainfall>
+		<population>1500000-2000000</population>
+		<post_monsoon_depth_to_water_level> 2
+		</post_monsoon_depth_to_water_level>
+		<class>Not affected</class>
+
+	</row>
+
+	<row id="21">
+		<name>bhor</name>
+		<Avg_Monsoon_Rainfall>1000-1100</Avg_Monsoon_Rainfall>
+		<population>0-50000</population>
+		<post_monsoon_depth_to_water_level>2 to 5
+		</post_monsoon_depth_to_water_level>
+		<class>Not affected</class>
+
+	</row>
+
+	<row id="22">
+		<name>Malshiraj</name>
+		<Avg_Monsoon_Rainfall>400-500</Avg_Monsoon_Rainfall>
+		<population>100000-200000</population>
+		<post_monsoon_depth_to_water_level>2 to 5
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+
+	</row>
+
+	<row id="23">
+		<name>sangoli</name>
+		<Avg_Monsoon_Rainfall>400-500</Avg_Monsoon_Rainfall>
+		<population>100000-200000</population>
+		<post_monsoon_depth_to_water_level>2 to 5
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+
+	</row>
+
+	<row id="24">
+		<name>Barshi</name>
+		<Avg_Monsoon_Rainfall>500-600</Avg_Monsoon_Rainfall>
+		<population>100000-200000</population>
+		<post_monsoon_depth_to_water_level> 5 to 10
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+
+	</row>
+
+	<row id="25">
+		<name>Mangalvedha</name>
+		<Avg_Monsoon_Rainfall>500-600</Avg_Monsoon_Rainfall>
+		<population>100000-200000</population>
+		<post_monsoon_depth_to_water_level>5 to 10
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+
+	</row>
+
+	<row id="26">
+		<name>pandharpur</name>
+		<Avg_Monsoon_Rainfall>400-500</Avg_Monsoon_Rainfall>
+		<population>100000-200000</population>
+		<post_monsoon_depth_to_water_level>5 to 10
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+
+	</row>
+
+	<row id="27">
+		<name>Karmala</name>
+		<Avg_Monsoon_Rainfall>500-600</Avg_Monsoon_Rainfall>
+		<population>100000-200000</population>
+		<post_monsoon_depth_to_water_level>2 to 5
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+
+	</row>
+	<row id="28">
+		<name>Madha</name>
+		<Avg_Monsoon_Rainfall>400-500</Avg_Monsoon_Rainfall>
+		<population>50000-100000</population>
+		<post_monsoon_depth_to_water_level>5 to 10
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+
+	</row>
+
+	<row id="29">
+		<name>Akkalkot</name>
+		<Avg_Monsoon_Rainfall>500-600</Avg_Monsoon_Rainfall>
+		<population>50000-100000</population>
+		<post_monsoon_depth_to_water_level>5 to 10
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+
+	</row>
+
+	<row id="30">
+		<name>Solapur South</name>
+		<Avg_Monsoon_Rainfall>600-700</Avg_Monsoon_Rainfall>
+		<population>200000-300000</population>
+		<post_monsoon_depth_to_water_level>2 to 5
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+
+	</row>
+
+	<row id="31">
+		<name>Solapur north</name>
+		<Avg_Monsoon_Rainfall>400-500</Avg_Monsoon_Rainfall>
+		<population>200000-300000</population>
+		<post_monsoon_depth_to_water_level>2 to 5
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+
+	</row>
+
+	<row id="31">
+		<name>Mohol</name>
+		<Avg_Monsoon_Rainfall>500-600</Avg_Monsoon_Rainfall>
+		<population>50000-100000</population>
+		<post_monsoon_depth_to_water_level>2 to 5
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+
+	</row>
+
+	<row id="32">
+		<name>Shirala</name>
+		<Avg_Monsoon_Rainfall>1000-1100</Avg_Monsoon_Rainfall>
+		<population>400000-500000</population>
+		<post_monsoon_depth_to_water_level>2 to 5
+		</post_monsoon_depth_to_water_level>
+		<class>Not Affected</class>
+
+	</row>
+
+	<row id="33">
+		<name>walwa</name>
+		<Avg_Monsoon_Rainfall>600-700</Avg_Monsoon_Rainfall>
+		<population>400000-500000</population>
+		<post_monsoon_depth_to_water_level>2 to 5
+		</post_monsoon_depth_to_water_level>
+		<class>Not Affected</class>
+
+	</row>
+
+	<row id="34">
+		<name>palus</name>
+		<Avg_Monsoon_Rainfall>500-600</Avg_Monsoon_Rainfall>
+		<population>500000-600000</population>
+		<post_monsoon_depth_to_water_level>2 to 5
+		</post_monsoon_depth_to_water_level>
+		<class>Not Affected</class>
+
+	</row>
+
+	<row id="35">
+		<name>Jat</name>
+		<Avg_Monsoon_Rainfall>400-500</Avg_Monsoon_Rainfall>
+		<population>50000-100000</population>
+		<post_monsoon_depth_to_water_level>5 to 10
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+
+	</row>
+
+	<row id="36">
+		<name>Tasgaon</name>
+		<Avg_Monsoon_Rainfall>500-600</Avg_Monsoon_Rainfall>
+		<population>100000-100000</population>
+		<post_monsoon_depth_to_water_level>5 to 10
+		</post_monsoon_depth_to_water_level>
+		<class>Affected</class>
+
+	</row>
+
+	<row id="37">
+		<name>Miraj</name>
+		<Avg_Monsoon_Rainfall>500-600</Avg_Monsoon_Rainfall>
+		<population>100000-200000</population>
+		<post_monsoon_depth_to_water_level>2 to 5
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+
+	</row>
+
+	<row id="38">
+		<name>Kavathemahankal </name>
+		<Avg_Monsoon_Rainfall>500-600</Avg_Monsoon_Rainfall>
+		<population>50000-100000</population>
+		<post_monsoon_depth_to_water_level>5 to 10
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+
+	</row>
+
+	<row id="39">
+		<name>Kadegaon </name>
+		<Avg_Monsoon_Rainfall>400-500</Avg_Monsoon_Rainfall>
+		<population>100000-200000</population>
+		<post_monsoon_depth_to_water_level>2 to 5
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+
+	</row>
+
+	<row id="40">
+		<name>Atpadi </name>
+		<Avg_Monsoon_Rainfall>400-500</Avg_Monsoon_Rainfall>
+		<population>50000-100000</population>
+		<post_monsoon_depth_to_water_level>2 to 5
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+
+	</row>
+
+	<row id="41">
+		<name>Khanapur</name>
+		<Avg_Monsoon_Rainfall>600-700</Avg_Monsoon_Rainfall>
+		<population>300000-400000</population>
+		<post_monsoon_depth_to_water_level>2 to 5
+		</post_monsoon_depth_to_water_level>
+		<class>Not Affected</class>
+
+	</row>
+
+
+
+	<row id="42">
+		<name>Pathardi </name>
+		<Avg_Monsoon_Rainfall>500-600</Avg_Monsoon_Rainfall>
+		<population>200000-300000</population>
+		<post_monsoon_depth_to_water_level>5 to 10
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+
+	</row>
+
+	<row id="43">
+		<name>parner </name>
+		<Avg_Monsoon_Rainfall>500-600</Avg_Monsoon_Rainfall>
+		<population>200000-300000</population>
+		<post_monsoon_depth_to_water_level>5 to 10
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+
+	</row>
+
+	<row id="44">
+		<name>Rahuri </name>
+		<Avg_Monsoon_Rainfall>500-600</Avg_Monsoon_Rainfall>
+		<population>100000-200000</population>
+		<post_monsoon_depth_to_water_level>2 to 5
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+
+	</row>
+
+
+	<row id="45">
+		<name>Nevasa </name>
+		<Avg_Monsoon_Rainfall>500-600</Avg_Monsoon_Rainfall>
+		<population>100000-200000</population>
+		<post_monsoon_depth_to_water_level>5 to 10
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+
+	</row>
+
+	<row id="46">
+		<name>Kavathemahankal </name>
+		<Avg_Monsoon_Rainfall>500-600</Avg_Monsoon_Rainfall>
+		<population>100000-200000</population>
+		<post_monsoon_depth_to_water_level>5 to 10
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+
+	</row>
+
+	<row id="47">
+		<name>shirala </name>
+		<Avg_Monsoon_Rainfall>1000-1100</Avg_Monsoon_Rainfall>
+		<population>300000-400000</population>
+		<post_monsoon_depth_to_water_level>2 to 5
+		</post_monsoon_depth_to_water_level>
+		<class>Not affected</class>
+
+	</row>
+
+	<row id="49">
+		<name>sugrana</name>
+		<Avg_Monsoon_Rainfall>1000-1100</Avg_Monsoon_Rainfall>
+		<population>0-50000</population>
+		<post_monsoon_depth_to_water_level>2
+		</post_monsoon_depth_to_water_level>
+		<class>Not affected</class>
+
+	</row>
+
+	<row id="50">
+		<name>Trimbakeshwar</name>
+		<Avg_Monsoon_Rainfall>2000-2100</Avg_Monsoon_Rainfall>
+		<population>0-50000</population>
+		<post_monsoon_depth_to_water_level>2
+		</post_monsoon_depth_to_water_level>
+		<class>Not affected</class>
+
+	</row>
+
+	<row id="51">
+		<name>peint </name>
+		<Avg_Monsoon_Rainfall>2100-2200</Avg_Monsoon_Rainfall>
+		<population>0-50000</population>
+		<post_monsoon_depth_to_water_level>2
+		</post_monsoon_depth_to_water_level>
+		<class>Not affected</class>
+
+	</row>
+
+	<row id="52">
+		<name>dindori </name>
+		<Avg_Monsoon_Rainfall>800-900</Avg_Monsoon_Rainfall>
+		<population>300000-400000</population>
+		<post_monsoon_depth_to_water_level>2 to 5
+		</post_monsoon_depth_to_water_level>
+		<class>Not affected</class>
+
+	</row>
+
+
+	<row id="53">
+		<name>Malegaon</name>
+		<Avg_Monsoon_Rainfall>500-600</Avg_Monsoon_Rainfall>
+		<population>100000-200000</population>
+		<post_monsoon_depth_to_water_level>2 to 5
+		</post_monsoon_depth_to_water_level>
+		<class>Not affected</class>
+
+	</row>
+
+	<row id="54">
+		<name>Nandgaon </name>
+		<Avg_Monsoon_Rainfall>500-600</Avg_Monsoon_Rainfall>
+		<population>100000-200000</population>
+		<post_monsoon_depth_to_water_level>2 to 5
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+
+	</row>
+
+	<row id="55">
+		<name>Baglan </name>
+		<Avg_Monsoon_Rainfall>400-500</Avg_Monsoon_Rainfall>
+		<population>100000-200000</population>
+		<post_monsoon_depth_to_water_level>5 to 10
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+
+	</row>
+
+	<row id="56">
+		<name>Malegaon </name>
+		<Avg_Monsoon_Rainfall>500-600</Avg_Monsoon_Rainfall>
+		<population>100000-200000</population>
+		<post_monsoon_depth_to_water_level>2 to 5
+		</post_monsoon_depth_to_water_level>
+		<class>Not affected</class>
+
+	</row>
+
+	<row id="57">
+		<name>Nasik </name>
+		<Avg_Monsoon_Rainfall>700-800</Avg_Monsoon_Rainfall>
+		<population>1500000-2000000</population>
+		<post_monsoon_depth_to_water_level>2 to 5
+		</post_monsoon_depth_to_water_level>
+		<class>Not affected</class>
+
+	</row>
+
+	<row id="58">
+		<name>kalvan </name>
+		<Avg_Monsoon_Rainfall>700-800</Avg_Monsoon_Rainfall>
+		<population>400000-500000</population>
+		<post_monsoon_depth_to_water_level>2 to 5
+		</post_monsoon_depth_to_water_level>
+		<class>Not affected</class>
+
+	</row>
+
+	<row id="59">
+		<name>Chandvad </name>
+		<Avg_Monsoon_Rainfall>700-800</Avg_Monsoon_Rainfall>
+		<population>100000-200000</population>
+		<post_monsoon_depth_to_water_level>5 to 10
+		</post_monsoon_depth_to_water_level>
+		<class> affected</class>
+
+	</row>
+
+
+	<row id="60">
+		<name>Kaij</name>
+		<Avg_Monsoon_Rainfall>500-600</Avg_Monsoon_Rainfall>
+		<population>100000-200000</population>
+		<post_monsoon_depth_to_water_level>2 to 5
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+
+	</row>
+
+	<row id="61">
+		<name>Parli</name>
+		<Avg_Monsoon_Rainfall>700-800</Avg_Monsoon_Rainfall>
+		<population>10000-20000</population>
+		<post_monsoon_depth_to_water_level>2 to 5
+		</post_monsoon_depth_to_water_level>
+		<class>Not Affected</class>
+
+	</row>
+
+	<row id="62">
+		<name>Ashti</name>
+		<Avg_Monsoon_Rainfall>500-600</Avg_Monsoon_Rainfall>
+		<population>100000-200000</population>
+		<post_monsoon_depth_to_water_level>5 to 10
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+
+	</row>
+
+	<row id="63">
+		<name>Patoda</name>
+		<Avg_Monsoon_Rainfall>500-600</Avg_Monsoon_Rainfall>
+		<population>100000-200000</population>
+		<post_monsoon_depth_to_water_level>5 to 10
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+
+	</row>
+
+
+	<row id="64">
+		<name>wadwani</name>
+		<Avg_Monsoon_Rainfall>800-900</Avg_Monsoon_Rainfall>
+		<population>100000-200000</population>
+		<post_monsoon_depth_to_water_level>2 to 5
+		</post_monsoon_depth_to_water_level>
+		<class>Not affected</class>
+
+	</row>
+
+
+	<row id="65">
+		<name>Manjlegaon</name>
+		<Avg_Monsoon_Rainfall>800-900</Avg_Monsoon_Rainfall>
+		<population>100000-200000</population>
+		<post_monsoon_depth_to_water_level>2 to 5
+		</post_monsoon_depth_to_water_level>
+		<class>Not Affected</class>
+
+	</row>
+
+
+	<row id="66">
+		<name>dharur</name>
+		<Avg_Monsoon_Rainfall>700-800</Avg_Monsoon_Rainfall>
+		<population>100000-200000</population>
+		<post_monsoon_depth_to_water_level>2 to 5
+		</post_monsoon_depth_to_water_level>
+		<class>Not affected</class>
+
+	</row>
+
+
+	<row id="67">
+		<name>Ambejogai</name>
+		<Avg_Monsoon_Rainfall>800-900</Avg_Monsoon_Rainfall>
+		<population>100000-200000</population>
+		<post_monsoon_depth_to_water_level>2
+		</post_monsoon_depth_to_water_level>
+		<class>Not affected</class>
+
+	</row>
+
+
+	<row id="68">
+		<name>bid</name>
+		<Avg_Monsoon_Rainfall>500-600</Avg_Monsoon_Rainfall>
+		<population>300000-400000</population>
+		<post_monsoon_depth_to_water_level>2 to 5
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+
+	</row>
+
+
+	<row id="69">
+		<name>Georai</name>
+		<Avg_Monsoon_Rainfall>600-700</Avg_Monsoon_Rainfall>
+		<population>0-50000</population>
+		<post_monsoon_depth_to_water_level>2 to 5
+		</post_monsoon_depth_to_water_level>
+		<class>Not affected</class>
+
+	</row>
+
+	<row id="70">
+		<name>Shirur(Bid)</name>
+		<Avg_Monsoon_Rainfall>500-600</Avg_Monsoon_Rainfall>
+		<population>100000-200000</population>
+		<post_monsoon_depth_to_water_level>5 to 10
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+
+	</row>
+
+	<row id="71">
+		<name>Junner</name>
+		<Avg_Monsoon_Rainfall>800-900</Avg_Monsoon_Rainfall>
+		<population>0-50000</population>
+		<post_monsoon_depth_to_water_level>2
+		</post_monsoon_depth_to_water_level>
+		<class>Not affected</class>
+
+	</row>
+
+
+
+	<row id="72">
+		<name>Kopargaon</name>
+		<Avg_Monsoon_Rainfall>400-500</Avg_Monsoon_Rainfall>
+		<population>100000-200000</population>
+		<post_monsoon_depth_to_water_level> to 10
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+
+	</row>
+
+	<row id="73">
+		<name>nagar</name>
+		<Avg_Monsoon_Rainfall>800-900</Avg_Monsoon_Rainfall>
+		<population>1500000-2000000</population>
+		<post_monsoon_depth_to_water_level>5 to 10
+		</post_monsoon_depth_to_water_level>
+		<class>Not affected</class>
+
+	</row>
+
+
+	<row id="74">
+		<name>yevala</name>
+		<Avg_Monsoon_Rainfall>600-700</Avg_Monsoon_Rainfall>
+		<population>200000-300000</population>
+		<post_monsoon_depth_to_water_level>2 to 5
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+
+	</row>
+	<row id="75">
+		<name>sinnar</name>
+		<Avg_Monsoon_Rainfall>500-600</Avg_Monsoon_Rainfall>
+		<population>200000-300000</population>
+		<post_monsoon_depth_to_water_level>5 to 10
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+
+	</row>
+	<row id="76">
+		<name>niphad</name>
+		<Avg_Monsoon_Rainfall>500-600</Avg_Monsoon_Rainfall>
+		<population>200000-300000</population>
+		<post_monsoon_depth_to_water_level>5 to 10
+		</post_monsoon_depth_to_water_level>
+		<class>affected</class>
+
+	</row>
+	<row id="77">
+		<name>peth</name>
+		<Avg_Monsoon_Rainfall>2100-2200</Avg_Monsoon_Rainfall>
+		<population>0-50000</population>
+		<post_monsoon_depth_to_water_level>5 to 10
+		</post_monsoon_depth_to_water_level>
+		<class>Not affected</class>
+
+	</row>
+
+	<row id="78">
+		<name>Akola</name>
+		<Avg_Monsoon_Rainfall>800-900</Avg_Monsoon_Rainfall>
+		<population>300000-400000</population>
+		<post_monsoon_depth_to_water_level>2
+		</post_monsoon_depth_to_water_level>
+		<class>Not affected</class>
+
+	</row>
+
+</Drought>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
